@@ -1,0 +1,53 @@
+.container {
+	padding-left: 10px;
+	margin-top: 15px;
+}
+@-ms-viewport {
+	width: device-width;
+}
+.header {
+	color: #2d3c49;
+	border-bottom: solid;
+	border-bottom-width: 5px;
+	padding-left: 10px;
+	text-align: center;
+}
+img {
+	width: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.background_image {
+	width: 75%;
+	padding: none;
+}
+.name {
+	font-size: 44px;
+}
+.games {
+	order: -1;
+	width: 100%;
+}
+.bus_Apps {
+	order: 0;
+	width: 100%;
+}
+.news_Feeds {
+	order: 2;
+	width: 100%;
+}
+.header_Games {
+	font-size: 28px;
+}
+h1 {
+	text-align: center;
+}
+h2 {
+	font-size: 26px;
+	text-align: center;
+}
+h3 {
+	font-size: 24px;
+	text-align: center;
+}
