@@ -1,46 +1,58 @@
 /*Contains styling for mobile phone size screens*/
+
 .body {
-	width: 90%;
+  width: 90%;
 }
+
 .container {
-	margin-top: 15px;
+  margin-top: 15px;
 }
+
 @-ms-viewport {
-	width: device-width;
+  width: device-width;
 }
+
 .header_logo {
-	text-align: center;
+  text-align: center;
 }
+
 .header_name {
-	text-align: center;
+  text-align: center;
 }
+
 .header {
-	color: #2d3c49;
-	border-bottom: solid;
-	border-bottom-width: 5px;
+  color: #2d3c49;
+  border-bottom: solid;
+  border-bottom-width: 5px;
 }
+
 .name {
-	font-size: 24px;
+  font-size: 24px;
 }
+
 img {
-	width: 100%;
+  width: 100%;
 }
+
 h1 {
-	font-size: 24px;
-	text-align: center;
+  font-size: 24px;
+  text-align: center;
 }
+
 .games {
-	order: -1;
-	width: 100%;
-	text-align: center;
+  order: -1;
+  width: 100%;
+  text-align: center;
 }
+
 .bus_Apps {
-	order: 0;
-	width: 100%;
-	text-align: center;
+  order: 0;
+  width: 100%;
+  text-align: center;
 }
+
 .news_Feeds {
-	order: 2;
-	width: 100%;
-	text-align: center;
+  order: 2;
+  width: 100%;
+  text-align: center;
 }
