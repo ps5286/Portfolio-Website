@@ -12,18 +12,20 @@
   width: device-width;
 }
 
-.header_logo {
+.header_name {
   text-align: center;
 }
 
-.header_name {
-  text-align: center;
+.header_logo {
+  width: 80px;
+  height: 80px;
 }
 
 .header {
   color: #2d3c49;
   border-bottom: solid;
   border-bottom-width: 5px;
+  text-align: center;
 }
 
 .name {
