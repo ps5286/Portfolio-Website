@@ -32,7 +32,7 @@ html {
 	border-bottom: solid;
 	border-bottom-width: 5px;
   order: -1;
-  grid-template-columns: 100px 100px 550px 450px;
+  grid-template-columns: 100px 100px 424px 400px;
   grid-template-rows: 200px;
 
 }
@@ -51,7 +51,7 @@ html {
   display: inline-grid;
   grid-column-start: 4;
   grid-column-end: 6;
-  padding-left: 275px;
+  padding-left: 395px;
 }
 
 .name {
